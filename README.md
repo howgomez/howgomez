@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola, <Developers/>! 👋
 
-<!--
-**howgomez/howgomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Gustavo 😄  
+¡Gracias por tomarte el tiempo de visitar mi perfil de GitHub!
 
-Here are some ideas to get you started:
+## Sobre mí
+- 🔭 Actualmente estoy trabajando en el mantenimiento de ecommerces y experiencia del usuario.
+- 🌱 Estoy aprendiendo maneras de mejorar la escalibilidad del codigo mio y/o otra persona.
+- 💬 ¡Hablame de cualquier cosa, estoy aquí para ayudarte! :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades principales
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-react-333333?style=flat&logo=react)
+![NestJS](https://img.shields.io/badge/-nestjs-333333?style=flat&logo=nestjs)
+![Postgresql](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
+
+## Encuéntrame en
+[<img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt="LinkedIn"/>](https://www.linkedin.com/in/gustavo-gomez-aguirre/)
+[<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub"/>](https://github.com/howgomez)
